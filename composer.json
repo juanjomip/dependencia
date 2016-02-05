@@ -11,8 +11,8 @@
     "authors": [
         {
             "name": "author_name",
-            "email": "author_email",
-            "homepage": "author_website",
+            "email": "hola@hola.com",
+            "homepage": "http//mediopena.com",
             "role": "Developer"
         }
     ],
