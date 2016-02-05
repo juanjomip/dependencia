@@ -3,8 +3,8 @@
     "type": "library",
     "description": "package_description",
     "keywords": [
-        ":vendor",
-        ":package_name"
+        "vendor",
+        "package_name"
     ],
     "homepage": "https://github.com/:vendor/dependencia",
     "license": "MIT",
