@@ -1,7 +1,7 @@
 {
     "name": "juanjomip/dependencia",
     "type": "library",
-    "description": ":package_description",
+    "description": "package_description",
     "keywords": [
         ":vendor",
         ":package_name"
@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "author_name",
+            "email": "author_email",
+            "homepage": "author_website",
             "role": "Developer"
         }
     ],
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            ":vendor\\:package_name\\": "src"
+            "vendor\\package_name\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            ":vendor\\:package_name\\Test\\": "tests"
+            "vendor\\package_name\\Test\\": "tests"
         }
     },
     "scripts": {
